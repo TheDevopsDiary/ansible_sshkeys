@@ -1,0 +1,3 @@
+users:
+ - {username: toby, state: absent, keyfile: /Users/tobylockyer/.ssh/id_rsa.pub}
+ - {username: root, state: present, keyfile: /Users/tobylockyer/.ssh/id_rsa.pub}
